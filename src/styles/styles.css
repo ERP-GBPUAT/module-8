@@ -1,0 +1,88 @@
+/* .student-img { */
+    /* max-width: 100%; */
+/* } */
+
+/* input[type="text"], */
+/* textarea { */
+/*  */
+/* background-color: rgb(225, 221, 221); */
+/*  */
+/* } */
+
+.reason {
+    height: 5rem;
+}
+
+.leave-type {
+    display: flex;
+}
+
+.black-box {
+    display: flex;
+    background-color: #434242;
+    color: white;
+    padding: 40px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.red-box {
+    display: flex;
+    background-color: #f24343;
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border: 1px solid red;
+    margin-left: 100px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    display: flex;
+    background-color: #43bef7;
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border: 1px solid blue;
+    margin-left: 100px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.green-box {
+    display: flex;
+    background-color: rgb(90, 227, 90);
+    color: white;
+    height: 8rem;
+    width: 15rem;
+    border: 1px solid lightgreen;
+    margin-left: 100px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    margin: 90px 20px 0 40px;
+    width: 95%;
+    height: 10rem;
+}
+
+.leaves {
+    text-align: center;
+}
+
+.leave{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+
+.user-name {
+    margin-left: 3rem;
+}

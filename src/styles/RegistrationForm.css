@@ -1,0 +1,28 @@
+.registration-container {
+    width: 1300px;
+    margin-top: 5rem;
+    margin-left: 20rem;
+    border-radius: 10px;
+}
+
+.student-img-box {
+    height: 700px;
+    width: 466.656px;
+    padding: 0;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.student-img {
+    max-height: 100%;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.register-form-box {
+    background-color: white;
+    padding: 50px 40px 0px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.heading {
+    text-align: center;
+}
