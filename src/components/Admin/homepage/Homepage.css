@@ -1,0 +1,90 @@
+.Black-box {
+    display: flex;
+    background-color: #434242;
+    color: white;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 20px;
+    width: 60rem;
+    height: 12.5rem;
+    border-radius: 10px;
+    margin-left: 8rem;
+}
+
+.profile-details-box {
+    display: flex;
+}
+
+.profile-table {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.left-profile {
+    height: 23rem;
+    width: 30rem;
+    background-color: white;
+    margin-top: 2rem;
+    margin-left: 8rem;
+    border-radius: 10px;
+}
+
+.right-profile {
+    height: 23rem;
+    width: 28rem;
+    background-color: white;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 10px;
+}
+
+.leavebox-container {
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.Red-box {
+    display: flex;
+    background-color: #FF6969;
+    color: white;
+    height: 5rem;
+    width: 8rem;
+    margin-left: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Blue-box {
+    display: flex;
+    background-color: #20c1d3;
+    color: white;
+    height: 5rem;
+    width: 8rem;
+    margin-left: 30px;
+    margin-right: 20px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Green-box {
+    display: flex;
+    background-color: #74e16c;
+    color: white;
+    height: 5rem;
+    width: 8rem;
+    margin-left: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.leaves {
+    text-align: center;
+}
+
+.User-name {
+    margin-left: 3rem;
+}

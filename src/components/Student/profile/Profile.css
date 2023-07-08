@@ -1,7 +1,3 @@
-.reason {
-    height: 5rem;
-}
-
 .black-box {
     display: flex;
     background-color: #434242;
@@ -51,7 +47,7 @@
     align-items: center;
 }
 
-.table {
+.leave-table {
     margin: 90px 20px 0 40px;
     width: 95%;
     height: 10rem;
@@ -59,13 +55,6 @@
 
 .leaves {
     text-align: center;
-}
-
-.leave{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    background-color: whitesmoke;
 }
 
 .user-name {

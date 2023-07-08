@@ -1,7 +1,3 @@
-.reason {
-    height: 5rem;
-}
-
 .black-box {
     display: flex;
     background-color: #434242;
@@ -59,13 +55,6 @@
 
 .leaves {
     text-align: center;
-}
-
-.leave{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    background-color: whitesmoke;
 }
 
 .user-name {
